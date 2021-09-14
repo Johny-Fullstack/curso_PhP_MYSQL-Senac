@@ -1,0 +1,10 @@
+@media (min-width: 992px) {
+    #header .navbar-collapse {
+        width: 100%;
+    }
+}
+
+#contato ul {
+    padding-top: 30px;
+    justify-content: center;
+}
